@@ -1,4 +1,4 @@
-# Go Gin Boilerplate
+# Go Gin Modular Architecture
 
 > A starter project with Golang, Gin and MySql
 
